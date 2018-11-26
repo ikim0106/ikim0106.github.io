@@ -251,7 +251,12 @@ body {
   margin:40px 0;
   font-size:40px;
 }
-
+.description{
+  text-align: center;
+  font-size: 18px;
+  color: bisque;
+  text-shadow: 2px 2px grey;
+}
 .hidden {
   display: none;
 }
