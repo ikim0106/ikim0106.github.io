@@ -205,10 +205,11 @@ body {
 }
 
 .bgimage{
-  background-image: url("https://www.mordeo.org/files/uploads/2017/10/Morning-Foggy-Mountain-HD-Mobile-Wallpaper-950x1520.jpg");
+  background-image: url("https://mobilehd.blob.core.windows.net/main/2015/10/huge-mountain-road-snow-1280x1920.jpg");
   background-repeat: no-repeat;
   position: absolute;
-  width: 100vw;
+  width: 100%;
+  height: 100%;
   left: 0;
   top: 0;
   z-index: -1;
