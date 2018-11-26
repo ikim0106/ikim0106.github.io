@@ -204,6 +204,15 @@ body {
   }
 }
 
+.bgimage{
+  background-image: url("https://www.mordeo.org/files/uploads/2017/10/Morning-Foggy-Mountain-HD-Mobile-Wallpaper-950x1520.jpg");
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 100vw;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
 .bgvid{
   position:absolute;
   left:0;
@@ -250,6 +259,7 @@ body {
   text-align:center;
   margin:40px 0;
   font-size:40px;
+  text-shadow: 2px 2px grey;
 }
 .description{
   text-align: center;
